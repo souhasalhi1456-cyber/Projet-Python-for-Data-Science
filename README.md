@@ -22,12 +22,17 @@ Comment peut-on prédire efficacement l'état de santé global d'un individu à 
 - **Score_Santé** : Score de santé global (continue, 0-100)
 
 ## 📁 Structure du Projet
-Projet-Python-for-Data-Science/
+Projet-Python-for-Data-Science
+
 │
 ├── 📄 README.md
+
 ├── 📊 CAHIER DES CHARGES Poo.pdf
+
 ├── 🐍 projet poo version finale.ipynb
+
 ├── 📈 synthetic_health_data.csv
+
 
 
 ## Étapes du Projet
