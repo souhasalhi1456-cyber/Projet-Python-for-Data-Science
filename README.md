@@ -24,7 +24,7 @@ Comment peut-on prédire efficacement l'état de santé global d'un individu à 
 ## 📁 Structure du Projet
 Projet-Python-for-Data-Science
 
-|
+
 
 ├── 📄 README.md
 
